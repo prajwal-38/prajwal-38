@@ -1,13 +1,4 @@
-💫 About Me:
-
-- 👋 Hi, I’m Prajwal and i like Machines :)
-- 👀 I’m interested in making machine do my stuff
-- 🔥 Stuff I know: Machine/Deep learning, Natural Language Lrocessing, LLMs, and everything revolving them
-- 🚀 Current Tech Stack: Python, Scikit-learn, TensorFlow, Pytorch, and a lot of overhyped python libraries
-- 🌱 Currently learning: Transformers, MLOps, Chatbots, Building/ Finetuning AI models
-- 📫 How to reach me: Prajwal38 is me, almost everywhere
-
-<!---
-prajwal-38/prajwal-38 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Hello! I'm [Prajwal](https://github.com/prajwal-38). <a href="https://github.com/prajwal-38"><img src="wave.gif" width="20px" height="20px" /></a>
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=18&pause=1000&random=false&width=435&lines=Welcome+to+my+GitHub+profile!%F0%9F%91%8B;My+favorite+language+is+Python%F0%9F%A6%80;I+love+to+automate+stuff%F0%9F%92%BB;I+also+love+music%F0%9F%8E%B5+and+gpus%F0%9F%93%9A;well+that+is+it!%F0%9F%93%A6)](https://github.com/prajwal-38) -->
+<a href="https://github.com/prajwal-38"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=18&pause=1000&random=false&width=435&lines=Welcome+to+my+GitHub+profile!%F0%9F%91%8B;My+favorite+language+is+Python%F0%9F%A6%80;I+love+to+automate+stuff%F0%9F%92%BB;I+also+love+music%F0%9F%8E%B5+and+gpus%F0%9F%93%9A;well+that+is+it!%F0%9F%93%A6" alt="Typing SVG" /></a>
+---
